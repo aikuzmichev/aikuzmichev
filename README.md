@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aikuzmichev
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Puthon
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: TG: @a_kuzmichev, fb: fb.com/akuzmichev
 

@@ -13,4 +13,4 @@ dollars = eval(input("Enter amount in dollars: "))
 print() 
 
 convert_to_ruble = dollars * data['Valute']['USD']['Value']
-print("That is" , convert_to_ruble, "₽ today")
+print("That is test" , convert_to_ruble, "₽ today testssssssss")
